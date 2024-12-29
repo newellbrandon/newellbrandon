@@ -1,6 +1,4 @@
 - 👋 @newellbrandon
-- 👀 Waiting for ASI to take over the world
-- 🌱 I’m currently using Fedora 40 on my Lenovo Slim Pro 7
 - 📫 You can reach me by making a PR
 
 <!---
